@@ -40,6 +40,7 @@ Install the required libraries:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn shap aif360 fairlearn
+```
 
 ## Usage
 
